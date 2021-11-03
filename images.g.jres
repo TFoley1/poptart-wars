@@ -1,0 +1,42 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAA////DwAAAPDt3d39AAAA8N3d3f4AAADw3e29/QAAAPC93d39AAAA8N3d3f0AAADw7b3t/QAAAPDd3d39AAAAAP///w8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "PoptartChunk"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA8AAAAAAAAPD//w/wAAD//yIi//8AAC/yIiIPAAAAH/L/Ig8AAAAv8iIiDwAAAB/y/yIPAAAAL/IiIg8AAAD//yIi//8AAADw//8P8AAAAAAADwAAAAAAAAAPAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Walking toaster"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//w8AAAAA8Kqq+gAAAADwof///w8AAPD6r6qq/wAA8PHKzKz6AADw+srxrPoAAAD/yv+s+gAAAPDK8az6AAAA8MrMrPoAAADwr6qq/wAAAAD///8PAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "BellyMouth"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAAAAAAA8AAAAAAAAADwAAAAAAAP//DwAA////X1UPDwBfVVVVVf8PAF/1VfVVDwAAX1VVX1UPAABfVVVfVQ8AAF9VVfVVDwAAX/VVVVUPDwBfVVVVVf8PAF9V/1/1DwAA//////8PAAAAAAAADwAAAAAAAAAPAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "SadYellow"
+    },
+    "image6": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAA8P///////wDw7d3d3e39APDd3d3t3f0A8N7d3d3d/QDw3f3f/d39APDd3d393f0A8N3d3d3d/QDw3f3f3t39APDd3d3d3f0A8N/t3d3d/gAA/////939AAAAAADw//8AAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Poptart0"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAA8P///////wDwPd3d3T39APDd3dc93f0A8NPd3d19/QDw3f3f/d39APB93d393f0A8N3d3d3d/QDw3f3f0939APDd3X3d3f0A8N893d3d8wAA/////939AAAAAADw//8AAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Poptart2"
+    },
+    "image7": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAA8P///////wDwgREREYHxAPARERKBEfEA8BIREREh8QDwEfEf8RHxAPCBEVHxEfEA8BERERER8QDwUfEfEhH1APAREYEREfEA8B+BERER9QAA/////xHxAAAAAADw//8AAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "PoptartConfetti"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
